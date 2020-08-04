@@ -2,19 +2,19 @@ table{
   border:solid 2pt Black;
   }
   
-  th{
+th{
  border:solid 1pt black
  padding:10px;
 }
  
-  td:nth-child(1){
-    background-color: #333c91;
+td:nth-child(1){
+    background-color:#333c91;
  }
  
- td:nth-child(2){
-  background-color: #e60707;
+td:nth-child(2){
+  background-color:#e60707;
   }
   
-  td:nth-child(3){
-    background-color: #32a305;
+td:nth-child(3){
+    background-color:#32a305;
     }
